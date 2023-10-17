@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\rabia\toplam\toplam\bin\Debug\toplam.exe.config
+C:\Users\User\Desktop\KORUMASIZ\rabia\toplam\toplam\bin\Debug\toplam.exe
+C:\Users\User\Desktop\KORUMASIZ\rabia\toplam\toplam\bin\Debug\toplam.pdb
+C:\Users\User\Desktop\KORUMASIZ\rabia\toplam\toplam\obj\Debug\toplam.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\rabia\toplam\toplam\obj\Debug\toplam.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\rabia\toplam\toplam\obj\Debug\toplam.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\rabia\toplam\toplam\obj\Debug\toplam.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\rabia\toplam\toplam\obj\Debug\toplam.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\rabia\toplam\toplam\obj\Debug\toplam.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\rabia\toplam\toplam\obj\Debug\toplam.exe
+C:\Users\User\Desktop\KORUMASIZ\rabia\toplam\toplam\obj\Debug\toplam.pdb
